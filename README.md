@@ -1,3 +1,5 @@
+Covid tracker App created with help from youtube, https://youtu.be/khJlrj3Y6Ls
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
