@@ -1,5 +1,7 @@
 Covid tracker App created with help from youtube, https://youtu.be/khJlrj3Y6Ls
 
+View project @ https://heuristic-lamarr-771d00.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
